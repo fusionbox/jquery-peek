@@ -20,9 +20,7 @@ In your template you would have something like this:
 
 ### JavaScript
 ```javascript
-<script>
-  $('.peekable').peek();
-</script>
+$('.peekable').peek();
 ```
 
 On the server side you need to check if the form was submitted with a field
